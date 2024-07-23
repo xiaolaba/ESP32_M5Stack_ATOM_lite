@@ -1,2 +1,3 @@
-# ESP32_M5Stack_ATOM_lite
+# ESP32 M5Stack ATOM lite QR-code
 module and camera for barcode
+
