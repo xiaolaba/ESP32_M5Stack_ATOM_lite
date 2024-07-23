@@ -10,7 +10,8 @@ https://docs.m5stack.com/en/atom/atomic_qr
 ### testing done
 115200 baud, [BTN_CONTROL](BTN_CONTROL)
 
+my disassembly  
 ![disassembly.jpg](disassembly.jpg)  
 
-
+atom_lite_schatic  
 ![atom_lite_sch_01.jpg](atom_lite_sch_01.jpg)  
