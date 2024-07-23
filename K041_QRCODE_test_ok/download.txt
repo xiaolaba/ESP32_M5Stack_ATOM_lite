@@ -1,0 +1,7 @@
+https://docs.m5stack.com/en/atom/atomic_qr
+
+https://github.com/m5stack/M5Atom/tree/master/examples/ATOM_BASE/ATOM_QRCode/BTN_CONTROL
+
+https://github.com/m5stack/M5Atom/tree/master/examples/ATOM_BASE/ATOM_QRCode/UART_CMD_CONTROL
+
+SKU K041
